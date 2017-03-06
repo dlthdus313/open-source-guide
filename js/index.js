@@ -3,8 +3,8 @@
 
 {% include_relative jquery.min.js %}
 {% include_relative anchor.min.js %}
-{% include_relative script.js %}
 {% include_relative ga.js %}
+{% include_relative toc.js %}
 
 var selector = '.article-body h2, .article-body h3, .article-body h4, .article-body h5';
 anchors.options = {

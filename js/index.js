@@ -2,7 +2,7 @@
 ---
 
 {% include_relative jquery.min.js %}
-{% include_relative vendor/anchor-js/anchor.min.js %}
+{% include_relative anchor.min.js %}
 {% include_relative script.js %}
 {% include_relative ga.js %}
 

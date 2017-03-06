@@ -15,7 +15,6 @@ exclude:
   - test
   - vendor
   - node_modules
-  - js/vendor
 
 permalink: /:path/
 
